@@ -6,7 +6,7 @@ Current Product Engineering Intern & Computer Information Technology student at 
 
 
 ## About This Portfolio
-This repository showcases my projects in AI security, cybersecurity and AI Governance. This includes my work in penetration testing, adversarial AI testing, risk analysis, and research in AI governance and policy
+This repository showcases my projects in AI security, cybersecurity and AI Governance. This includes my work in penetration testing, adversarial AI testing, risk analysis, and research in AI governance and policy.
 
 
 ## Featured Projects
